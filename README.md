@@ -1,2 +1,2 @@
 # sushis
-voici mon programme qui gere des recettes de sushis pour le grands oral du bac
+voici mon programme qui gère des recettes de sushis (Grand oral de Bac)
